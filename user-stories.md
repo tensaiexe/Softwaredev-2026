@@ -18,7 +18,8 @@
     -  **As a** Retired teacher, **I want to** share progress with my doctor **so that** I can maintain a healthy weight.
       
 5. ### Tim:
-    - **As a** Student, **I want to** track my running times **so that** continue to progress. 
+    - **As a** Student, **I want to** track my running times **so that** I continue to progress.
+    - **AS a** Student, **I want to** join shared fitness groups **so that** I can share my achievements.
 
 
 ## Notes:
