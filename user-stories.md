@@ -19,7 +19,7 @@
       
 5. ### Tim:
     - **As a** Student, **I want to** track my running times **so that** I continue to progress.
-    - **AS a** Student, **I want to** join shared fitness groups **so that** I can share my achievements.
+    - **As a** Student, **I want to** join shared fitness groups **so that** I can share my achievements.
 
 
 ## Notes:
